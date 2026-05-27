@@ -25,3 +25,18 @@ __pycache__
 /oft_venv/
 /compiler_id.txt
 /setup_env.sh
+
+# Built Files
+config_cmake.sh
+/build/
+/build_release/
+/install_release/
+
+# Downloaded Files
+/OpenBLAS-*/
+/UMFPACK-*/
+/arpack-*/
+/hdf5-*/
+/libxml2-*/
+/metis-*/
+
