@@ -40,3 +40,5 @@ config_cmake.sh
 /libxml2-*/
 /metis-*/
 
+# Python artifacts
+.ipynb_checkpoints
